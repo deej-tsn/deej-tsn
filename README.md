@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deej-tsn
 - 👀 I’m interested in application programming and electronics
-- 🌱 I’m currently learning web design (javascript)
+- 🌱 I’m currently learning Web design (React/NextJs)
 - 📫 How to reach me by email at "dempsey.2001@hotmail.co.uk"
 
 <!---
